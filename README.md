@@ -15,11 +15,11 @@
 
 <br>
 
-![Theme Clock]()
+![Theme Clock](images/theme-clock.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Theme-Clock/)
 
 <br>
 
